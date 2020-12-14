@@ -1,0 +1,16 @@
+static void UpdatePresence()
+{
+    DiscordRichPresence discordPresence;
+    memset(&discordPresence, 0, sizeof(discordPresence));
+    discordPresence.state = "";
+    discordPresence.details = "";
+    discordPresence.startTimestamp = ;
+    discordPresence.endTimestamp = ;
+    discordPresence.largeImageText = "";
+    discordPresence.smallImageText = "";
+    discordPresence.partyId = "";
+    discordPresence.partySize = ;
+    discordPresence.partyMax = ;
+    discordPresence.joinSecret = "";
+    Discord_UpdatePresence(&discordPresence);
+}
