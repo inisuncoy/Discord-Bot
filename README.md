@@ -1,2 +1,2 @@
-# Discord-Bot Music And For Binusian
-by 163
+# Discord-Bot 163
+jangan di colong ajg!
