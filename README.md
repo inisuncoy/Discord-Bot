@@ -1,2 +1,2 @@
-# Discord-Bot Music And For BInusian
+# Discord-Bot Music And For Binusian
 by 163
